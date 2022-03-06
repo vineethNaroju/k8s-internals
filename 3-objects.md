@@ -1,4 +1,13 @@
 
+*** About Me ***
+
+
+k8s objects are persistent entities - record of intent
+
+apiVersion, kind, metadata, spec - desired object state.
+
+
+Selector => matchLabels , matchExpression , etc.
 
 *** Pod ***
 
